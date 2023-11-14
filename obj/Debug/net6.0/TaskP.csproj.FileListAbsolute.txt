@@ -1,0 +1,17 @@
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\bin\Debug\net6.0\TaskP.exe
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\bin\Debug\net6.0\TaskP.deps.json
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\bin\Debug\net6.0\TaskP.runtimeconfig.json
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\bin\Debug\net6.0\TaskP.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\bin\Debug\net6.0\TaskP.pdb
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\TaskP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\TaskP.AssemblyInfoInputs.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\TaskP.AssemblyInfo.cs
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\TaskP.csproj.CoreCompileInputs.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\TaskP.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\refint\TaskP.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\TaskP.pdb
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\TaskP.genruntimeconfig.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\ref\TaskP.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\TaskP.csproj.AssemblyReference.cache
+C:\Users\birinci novbe\Desktop\Nihad\accessmodifiers\TaskP\obj\Debug\net6.0\TaskP.csproj.CopyComplete
